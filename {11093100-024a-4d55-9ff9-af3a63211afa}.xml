@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PageData id="{11093100-024a-4d55-9ff9-af3a63211afa}">
+    <PageTypeLayout val="0"/>
+    <sync_inst>
+        <uuid_update val="7076d178_3851_4076_a894_feaa7399db8c"/>
+        <uuid_res val=""/>
+        <ValidToSync val="true"/>
+    </sync_inst>
+    <resp>
+        <objects type="Map[ScreenResponsive]=PageResponsiveData">
+            <ITEM>
+                <KEY>
+                    <index val="1024"/>
+                </KEY>
+                <VAL>
+                    <key>
+                        <index val="1024"/>
+                    </key>
+                    <page_height val="1000"/>
+                </VAL>
+            </ITEM>
+        </objects>
+    </resp>
+    <item_objects type="SmartList[DataSerializableItem*]">
+        <ITEM class="DataItemSmartText" id="{4e41a335-5d45-4d40-8ee4-f9a4c96154d5}">
+            <locked val="false"/>
+            <uuid_group val=""/>
+            <type_lock_to_bottom val="0"/>
+            <z val="5"/>
+            <ban_mode val="0"/>
+            <text_wrapping>
+                <type_wrap val="0"/>
+            </text_wrapping>
+            <dev>
+                <dev>
+                    <enabled val="false"/>
+                    <css_class val=""/>
+                </dev>
+                <float val="false"/>
+            </dev>
+            <anim>
+                <enabled val="false"/>
+                <key val="fadeIn"/>
+                <duration val="1000"/>
+                <values type="List[AnimValueProperty]"/>
+            </anim>
+            <comp_version val="1"/>
+            <type_fill val="1"/>
+            <uni_color>
+                <col val="#00000000"/>
+            </uni_color>
+            <gradient>
+                <pt1 val="[10,10]"/>
+                <pt2 val="[50,50]"/>
+                <col1>
+                    <col val="#5a9ff6"/>
+                </col1>
+                <col2>
+                    <col val="#226fdb"/>
+                </col2>
+            </gradient>
+            <shadow>
+                <enable val="false"/>
+                <ang val="45"/>
+                <offset val="4"/>
+                <strength val="8"/>
+                <col>
+                    <col val="#000000"/>
+                </col>
+            </shadow>
+            <border>
+                <enable val="false"/>
+                <width val="[1]"/>
+                <cols type="List[WColorRGBA]"/>
+            </border>
+            <radius>
+                <enable val="false"/>
+                <radius val="[5]"/>
+            </radius>
+            <resp>
+                <objects type="Map[ScreenResponsive]=DataResponsiveSmartText">
+                    <ITEM>
+                        <KEY>
+                            <index val="320"/>
+                        </KEY>
+                        <VAL>
+                            <key>
+                                <index val="320"/>
+                            </key>
+                            <visible val="true"/>
+                            <geo>
+                                <pos val="[92.19252440379933,44.17900307996392]"/>
+                                <size val="[172,76]"/>
+                                <rot val="0"/>
+                            </geo>
+                            <text_wrap>
+                                <margin val="5"/>
+                            </text_wrap>
+                            <float_properties>
+                                <enabled val="false"/>
+                                <lock_point val="1"/>
+                            </float_properties>
+                        </VAL>
+                    </ITEM>
+                    <ITEM>
+                        <KEY>
+                            <index val="1024"/>
+                        </KEY>
+                        <VAL>
+                            <key>
+                                <index val="1024"/>
+                            </key>
+                            <visible val="true"/>
+                            <geo>
+                                <pos val="[295.01607809215784,141.37280985588455]"/>
+                                <size val="[550,243]"/>
+                                <rot val="0"/>
+                            </geo>
+                            <text_wrap>
+                                <margin val="5"/>
+                            </text_wrap>
+                            <float_properties>
+                                <enabled val="false"/>
+                                <lock_point val="1"/>
+                            </float_properties>
+                        </VAL>
+                    </ITEM>
+                </objects>
+            </resp>
+            <mlng>
+                <objects type="Map[QString]=DatasMultilingualComp">
+                    <ITEM>
+                        <KEY val="fr"/>
+                        <VAL>
+                            <key val="fr"/>
+                            <vis_lng val="true"/>
+                        </VAL>
+                    </ITEM>
+                </objects>
+            </mlng>
+            <smt_text>
+                <blocks type="List[SmtTextBlockData]">
+                    <ITEM>
+                        <style>
+                            <shared_style>
+                                <key val=""/>
+                            </shared_style>
+                            <in_style>
+                                <fontsize>
+                                    <is_resp val="false"/>
+                                    <values type="Map[QString]=int"/>
+                                    <no_resp_value val="46"/>
+                                </fontsize>
+                                <resp_bottom_margin>
+                                    <is_resp val="false"/>
+                                    <values type="Map[QString]=int"/>
+                                    <no_resp_value val="-1"/>
+                                </resp_bottom_margin>
+                                <resp_align>
+                                    <is_resp val="false"/>
+                                    <values type="Map[QString]=int"/>
+                                    <no_resp_value val="-1"/>
+                                </resp_align>
+                                <line-height val="100"/>
+                                <underline val="false"/>
+                                <text_col val="#000000"/>
+                                <family val="Arial"/>
+                                <weight val=""/>
+                                <heading val="0"/>
+                                <lnk>
+                                    <color val="#0000ff"/>
+                                    <underlined val="true"/>
+                                    <bold val="false"/>
+                                    <has_custom_over_col val="false"/>
+                                    <col_over val="#00000000"/>
+                                </lnk>
+                            </in_style>
+                        </style>
+                        <txt_langs>
+                            <lng_datas type="Map[QString]=SmtTextTranslatableItem">
+                                <ITEM>
+                                    <KEY val="fr"/>
+                                    <VAL>
+                                        <d val="&lt;p&gt;Teste Pra ver se funciona&lt;/p&gt;"/>
+                                        <uuid val=""/>
+                                        <m val="2021-05-05T09:36:02"/>
+                                        <auto_tr_date val=""/>
+                                        <auto_tr_hsh val=""/>
+                                    </VAL>
+                                </ITEM>
+                            </lng_datas>
+                            <opt val="1"/>
+                            <tr_auto val="0"/>
+                        </txt_langs>
+                    </ITEM>
+                </blocks>
+                <paragraph_style>
+                    <in_style>
+                        <global_margin>
+                            <is_resp val="false"/>
+                            <values type="Map[QString]=int"/>
+                            <no_resp_value val="-1"/>
+                        </global_margin>
+                        <vertical_align>
+                            <is_resp val="false"/>
+                            <values type="Map[QString]=int"/>
+                            <no_resp_value val="-1"/>
+                        </vertical_align>
+                    </in_style>
+                </paragraph_style>
+                <display_readmore val="false"/>
+            </smt_text>
+        </ITEM>
+        <ITEM class="DataItemImage" id="{e428da16-1bba-4b4e-a026-cdf6a215b95e}">
+            <locked val="false"/>
+            <uuid_group val=""/>
+            <type_lock_to_bottom val="0"/>
+            <z val="10"/>
+            <ban_mode val="0"/>
+            <text_wrapping>
+                <type_wrap val="0"/>
+            </text_wrapping>
+            <dev>
+                <dev>
+                    <enabled val="false"/>
+                    <css_class val=""/>
+                </dev>
+                <float val="false"/>
+            </dev>
+            <anim>
+                <enabled val="false"/>
+                <key val="fadeIn"/>
+                <duration val="1000"/>
+                <values type="List[AnimValueProperty]"/>
+            </anim>
+            <comp_version val="2"/>
+            <resp>
+                <objects type="Map[ScreenResponsive]=DataResponsiveImage">
+                    <ITEM>
+                        <KEY>
+                            <index val="320"/>
+                        </KEY>
+                        <VAL>
+                            <key>
+                                <index val="320"/>
+                            </key>
+                            <visible val="true"/>
+                            <geo>
+                                <pos val="[159.63184553780593,88.33638584362942]"/>
+                                <size val="[249,121]"/>
+                                <rot val="0"/>
+                            </geo>
+                            <text_wrap>
+                                <margin val="5"/>
+                            </text_wrap>
+                            <float_properties>
+                                <enabled val="false"/>
+                                <lock_point val="1"/>
+                            </float_properties>
+                            <main_img_usages>
+                                <type_img_usage val="0"/>
+                                <src val=""/>
+                                <size val="[-1,-1]"/>
+                                <dbl_density val="false"/>
+                                <jpeg val="-1"/>
+                            </main_img_usages>
+                            <over_img_usages>
+                                <type_img_usage val="0"/>
+                                <src val=""/>
+                                <size val="[-1,-1]"/>
+                                <dbl_density val="false"/>
+                                <jpeg val="-1"/>
+                            </over_img_usages>
+                        </VAL>
+                    </ITEM>
+                    <ITEM>
+                        <KEY>
+                            <index val="1024"/>
+                        </KEY>
+                        <VAL>
+                            <key>
+                                <index val="1024"/>
+                            </key>
+                            <visible val="true"/>
+                            <geo>
+                                <pos val="[510.821905720979,282.6764346996141]"/>
+                                <size val="[796,387]"/>
+                                <rot val="0"/>
+                            </geo>
+                            <text_wrap>
+                                <margin val="5"/>
+                            </text_wrap>
+                            <float_properties>
+                                <enabled val="false"/>
+                                <lock_point val="1"/>
+                            </float_properties>
+                            <main_img_usages>
+                                <type_img_usage val="0"/>
+                                <src val="{0c319676-2b89-4b88-8fa3-6163e325645e}"/>
+                                <size val="[686,387]"/>
+                                <dbl_density val="false"/>
+                                <jpeg val="-1"/>
+                            </main_img_usages>
+                            <over_img_usages>
+                                <type_img_usage val="0"/>
+                                <src val=""/>
+                                <size val="[-1,-1]"/>
+                                <dbl_density val="false"/>
+                                <jpeg val="-1"/>
+                            </over_img_usages>
+                        </VAL>
+                    </ITEM>
+                </objects>
+            </resp>
+            <mlng>
+                <objects type="Map[QString]=DatasMultilingualComp">
+                    <ITEM>
+                        <KEY val="fr"/>
+                        <VAL>
+                            <key val="fr"/>
+                            <vis_lng val="true"/>
+                        </VAL>
+                    </ITEM>
+                </objects>
+            </mlng>
+            <img>
+                <uuid_update val=""/>
+                <uuid_res val="{0c319676-2b89-4b88-8fa3-6163e325645e}"/>
+                <ValidToSync val="true"/>
+                <display>
+                    <lck_point val="4"/>
+                    <type_dsp val="1"/>
+                    <repeat_contain val="true"/>
+                </display>
+            </img>
+            <over_img>
+                <enabled val="false"/>
+                <type_effect val="0"/>
+                <img>
+                    <uuid_update val=""/>
+                    <uuid_res val=""/>
+                    <ValidToSync val="true"/>
+                    <display>
+                        <lck_point val="4"/>
+                        <type_dsp val="1"/>
+                        <repeat_contain val="true"/>
+                    </display>
+                </img>
+                <text>
+                    <blocks type="List[SmtTextBlockData]"/>
+                    <paragraph_style>
+                        <in_style>
+                            <global_margin>
+                                <is_resp val="false"/>
+                                <values type="Map[QString]=int"/>
+                                <no_resp_value val="-1"/>
+                            </global_margin>
+                            <vertical_align>
+                                <is_resp val="false"/>
+                                <values type="Map[QString]=int"/>
+                                <no_resp_value val="-1"/>
+                            </vertical_align>
+                        </in_style>
+                    </paragraph_style>
+                    <display_readmore val="false"/>
+                </text>
+            </over_img>
+            <opacity>
+                <enable val="false"/>
+                <val val="50"/>
+            </opacity>
+            <blur>
+                <enabled val="false"/>
+                <val val="4"/>
+            </blur>
+            <shadow>
+                <enable val="false"/>
+                <ang val="45"/>
+                <offset val="4"/>
+                <strength val="8"/>
+                <col>
+                    <col val="#000000"/>
+                </col>
+            </shadow>
+            <border>
+                <enable val="false"/>
+                <width val="[1]"/>
+                <cols type="List[WColorRGBA]"/>
+            </border>
+            <radius>
+                <enable val="false"/>
+                <radius val="[5]"/>
+            </radius>
+            <filters>
+                <enable val="false"/>
+                <filters type="List[FilterGraphicsItem]"/>
+            </filters>
+            <link>
+                <ptr type="SmartList[EntityLinkBase*]"/>
+                <js>
+                    <script val=""/>
+                </js>
+                <type val="1"/>
+                <animate_click val="false"/>
+                <no_follow val="false"/>
+            </link>
+            <lightbox>
+                <enabled val="false"/>
+            </lightbox>
+            <usage_lightbox>
+                <type_img_usage val="0"/>
+                <src val=""/>
+                <size val="[-1,-1]"/>
+                <dbl_density val="false"/>
+                <jpeg val="-1"/>
+            </usage_lightbox>
+            <txt_title>
+                <lng_datas type="Map[QString]=SmtTextTranslatableItem"/>
+                <opt val="2"/>
+                <tr_auto val="0"/>
+            </txt_title>
+            <DoubleDensity val="false"/>
+        </ITEM>
+        <ITEM class="DataItemSmartText" id="{13dc7d55-24d4-4b2a-afb6-3e709c92cc2c}">
+            <locked val="false"/>
+            <uuid_group val=""/>
+            <type_lock_to_bottom val="0"/>
+            <z val="20"/>
+            <ban_mode val="0"/>
+            <text_wrapping>
+                <type_wrap val="0"/>
+            </text_wrapping>
+            <dev>
+                <dev>
+                    <enabled val="false"/>
+                    <css_class val=""/>
+                </dev>
+                <float val="false"/>
+            </dev>
+            <anim>
+                <enabled val="false"/>
+                <key val="fadeIn"/>
+                <duration val="1000"/>
+                <values type="List[AnimValueProperty]"/>
+            </anim>
+            <comp_version val="1"/>
+            <type_fill val="1"/>
+            <uni_color>
+                <col val="#00000000"/>
+            </uni_color>
+            <gradient>
+                <pt1 val="[10,10]"/>
+                <pt2 val="[50,50]"/>
+                <col1>
+                    <col val="#5a9ff6"/>
+                </col1>
+                <col2>
+                    <col val="#226fdb"/>
+                </col2>
+            </gradient>
+            <shadow>
+                <enable val="false"/>
+                <ang val="45"/>
+                <offset val="4"/>
+                <strength val="8"/>
+                <col>
+                    <col val="#000000"/>
+                </col>
+            </shadow>
+            <border>
+                <enable val="false"/>
+                <width val="[1]"/>
+                <cols type="List[WColorRGBA]"/>
+            </border>
+            <radius>
+                <enable val="false"/>
+                <radius val="[5]"/>
+            </radius>
+            <resp>
+                <objects type="Map[ScreenResponsive]=DataResponsiveSmartText">
+                    <ITEM>
+                        <KEY>
+                            <index val="320"/>
+                        </KEY>
+                        <VAL>
+                            <key>
+                                <index val="320"/>
+                            </key>
+                            <visible val="true"/>
+                            <geo>
+                                <pos val="[171.56752440379933,190.7415030799639]"/>
+                                <size val="[172,76]"/>
+                                <rot val="0"/>
+                            </geo>
+                            <text_wrap>
+                                <margin val="5"/>
+                            </text_wrap>
+                            <float_properties>
+                                <enabled val="false"/>
+                                <lock_point val="1"/>
+                            </float_properties>
+                        </VAL>
+                    </ITEM>
+                    <ITEM>
+                        <KEY>
+                            <index val="1024"/>
+                        </KEY>
+                        <VAL>
+                            <key>
+                                <index val="1024"/>
+                            </key>
+                            <visible val="true"/>
+                            <geo>
+                                <pos val="[549.0160780921578,610.3728098558845]"/>
+                                <size val="[550,243]"/>
+                                <rot val="0"/>
+                            </geo>
+                            <text_wrap>
+                                <margin val="5"/>
+                            </text_wrap>
+                            <float_properties>
+                                <enabled val="false"/>
+                                <lock_point val="1"/>
+                            </float_properties>
+                        </VAL>
+                    </ITEM>
+                </objects>
+            </resp>
+            <mlng>
+                <objects type="Map[QString]=DatasMultilingualComp">
+                    <ITEM>
+                        <KEY val="fr"/>
+                        <VAL>
+                            <key val="fr"/>
+                            <vis_lng val="true"/>
+                        </VAL>
+                    </ITEM>
+                </objects>
+            </mlng>
+            <smt_text>
+                <blocks type="List[SmtTextBlockData]">
+                    <ITEM>
+                        <style>
+                            <shared_style>
+                                <key val=""/>
+                            </shared_style>
+                            <in_style>
+                                <fontsize>
+                                    <is_resp val="false"/>
+                                    <values type="Map[QString]=int"/>
+                                    <no_resp_value val="46"/>
+                                </fontsize>
+                                <resp_bottom_margin>
+                                    <is_resp val="false"/>
+                                    <values type="Map[QString]=int"/>
+                                    <no_resp_value val="-1"/>
+                                </resp_bottom_margin>
+                                <resp_align>
+                                    <is_resp val="false"/>
+                                    <values type="Map[QString]=int"/>
+                                    <no_resp_value val="-1"/>
+                                </resp_align>
+                                <line-height val="100"/>
+                                <underline val="false"/>
+                                <text_col val="#000000"/>
+                                <family val="Arial"/>
+                                <weight val=""/>
+                                <heading val="0"/>
+                                <lnk>
+                                    <color val="#0000ff"/>
+                                    <underlined val="true"/>
+                                    <bold val="false"/>
+                                    <has_custom_over_col val="false"/>
+                                    <col_over val="#00000000"/>
+                                </lnk>
+                            </in_style>
+                        </style>
+                        <txt_langs>
+                            <lng_datas type="Map[QString]=SmtTextTranslatableItem">
+                                <ITEM>
+                                    <KEY val="fr"/>
+                                    <VAL>
+                                        <d val="&lt;p&gt;se funcionar me fala&lt;/p&gt;"/>
+                                        <uuid val="{2d84816d-48da-41be-b5c8-b0c282eb8783}"/>
+                                        <m val="2021-05-05T09:37:38"/>
+                                        <auto_tr_date val=""/>
+                                        <auto_tr_hsh val=""/>
+                                    </VAL>
+                                </ITEM>
+                            </lng_datas>
+                            <opt val="1"/>
+                            <tr_auto val="0"/>
+                        </txt_langs>
+                    </ITEM>
+                </blocks>
+                <paragraph_style>
+                    <in_style>
+                        <global_margin>
+                            <is_resp val="false"/>
+                            <values type="Map[QString]=int"/>
+                            <no_resp_value val="-1"/>
+                        </global_margin>
+                        <vertical_align>
+                            <is_resp val="false"/>
+                            <values type="Map[QString]=int"/>
+                            <no_resp_value val="-1"/>
+                        </vertical_align>
+                    </in_style>
+                </paragraph_style>
+                <display_readmore val="false"/>
+            </smt_text>
+        </ITEM>
+    </item_objects>
+    <edit_page_infos>
+        <label val="Início"/>
+        <color_code val=""/>
+    </edit_page_infos>
+    <ft_datas>
+        <MapTextModification type="Map[QString]=bool">
+            <ITEM>
+                <KEY val="fr"/>
+                <VAL val="false"/>
+            </ITEM>
+        </MapTextModification>
+        <datas>
+            <objects type="Map[QString]=FullTextSearchAtomicDB">
+                <ITEM>
+                    <KEY val="fr"/>
+                    <VAL>
+                        <key val="fr"/>
+                        <map_words type="Map[QString]=int">
+                            <ITEM>
+                                <KEY val=""/>
+                                <VAL val="1"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="fala"/>
+                                <VAL val="1"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="funciona"/>
+                                <VAL val="1"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="funcionar"/>
+                                <VAL val="1"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="me"/>
+                                <VAL val="1"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="pra"/>
+                                <VAL val="1"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="se"/>
+                                <VAL val="2"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="teste"/>
+                                <VAL val="1"/>
+                            </ITEM>
+                            <ITEM>
+                                <KEY val="ver"/>
+                                <VAL val="1"/>
+                            </ITEM>
+                        </map_words>
+                    </VAL>
+                </ITEM>
+            </objects>
+        </datas>
+    </ft_datas>
+    <creation val="2021-05-05T09:35:15"/>
+    <modification val="2021-05-11T09:22:27"/>
+    <page_properties>
+        <html_head>
+            <enabled val="true"/>
+            <code_html val=""/>
+            <files type="List[WebFileSource]"/>
+            <syntax val="0"/>
+            <IsLangDependant val="false"/>
+            <HtmlCodeByLang type="Map[QString]=QString"/>
+        </html_head>
+        <html_body_end>
+            <enabled val="true"/>
+            <code_html val=""/>
+            <files type="List[WebFileSource]"/>
+            <syntax val="0"/>
+            <IsLangDependant val="false"/>
+            <HtmlCodeByLang type="Map[QString]=QString"/>
+        </html_body_end>
+        <php_page_beginning>
+            <enabled val="false"/>
+            <code_html val=""/>
+            <files type="List[WebFileSource]"/>
+            <syntax val="0"/>
+            <IsLangDependant val="false"/>
+            <HtmlCodeByLang type="Map[QString]=QString"/>
+        </php_page_beginning>
+        <custom_page_name val=""/>
+        <b_custom_page_name_lang_dependant val="false"/>
+        <template_uuids val=""/>
+        <page_extension val="0"/>
+        <seo_ignore_by_search_engine val="false"/>
+        <seo_no_follow_links val="false"/>
+        <under_construction val="false"/>
+        <restricted_access>
+            <enabled val="false"/>
+            <entries val=""/>
+        </restricted_access>
+        <color_bg>
+            <col val="#ffffff"/>
+        </color_bg>
+        <img_bg>
+            <uuid_update val=""/>
+            <uuid_res val=""/>
+            <ValidToSync val="true"/>
+            <display>
+                <lck_point val="4"/>
+                <type_dsp val="1"/>
+                <repeat_contain val="true"/>
+            </display>
+        </img_bg>
+        <img_bg_usage>
+            <type_img_usage val="0"/>
+            <src val=""/>
+            <size val="[-1,-1]"/>
+            <dbl_density val="false"/>
+            <jpeg val="-1"/>
+        </img_bg_usage>
+        <repeat_bg_horz val="true"/>
+        <repeat_bg_vert val="true"/>
+        <txt_MetaTitle>
+            <lng_datas type="Map[QString]=SmtTextTranslatableItem"/>
+            <opt val="2"/>
+            <tr_auto val="0"/>
+        </txt_MetaTitle>
+        <txt_MetaDescription>
+            <lng_datas type="Map[QString]=SmtTextTranslatableItem"/>
+            <opt val="2"/>
+            <tr_auto val="0"/>
+        </txt_MetaDescription>
+        <txt_CustomName>
+            <lng_datas type="Map[QString]=SmtTextTranslatableItem"/>
+            <opt val="2"/>
+            <tr_auto val="2"/>
+        </txt_CustomName>
+        <keywords_lang>
+            <lng_datas type="Map[QString]=SmtTextTranslatableItem"/>
+            <opt val="2"/>
+            <tr_auto val="0"/>
+        </keywords_lang>
+        <keywords_nolang val=""/>
+    </page_properties>
+</PageData>

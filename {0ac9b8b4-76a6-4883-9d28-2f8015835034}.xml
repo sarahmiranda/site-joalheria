@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PageTemplateData id="{0ac9b8b4-76a6-4883-9d28-2f8015835034}">
+    <PageTypeLayout val="0"/>
+    <sync_inst>
+        <uuid_update val="29fbfcb8_bb80_4d08_a669_40636c7a6c5a"/>
+        <uuid_res val=""/>
+        <ValidToSync val="true"/>
+    </sync_inst>
+    <resp>
+        <objects type="Map[ScreenResponsive]=PageResponsiveData">
+            <ITEM>
+                <KEY>
+                    <index val="320"/>
+                </KEY>
+                <VAL>
+                    <key>
+                        <index val="320"/>
+                    </key>
+                    <page_height val="2000"/>
+                </VAL>
+            </ITEM>
+            <ITEM>
+                <KEY>
+                    <index val="1024"/>
+                </KEY>
+                <VAL>
+                    <key>
+                        <index val="1024"/>
+                    </key>
+                    <page_height val="442"/>
+                </VAL>
+            </ITEM>
+        </objects>
+    </resp>
+    <item_objects type="SmartList[DataSerializableItem*]"/>
+    <edit_page_infos>
+        <label val=""/>
+        <color_code val=""/>
+    </edit_page_infos>
+    <ft_datas>
+        <MapTextModification type="Map[QString]=bool">
+            <ITEM>
+                <KEY val="fr"/>
+                <VAL val="false"/>
+            </ITEM>
+        </MapTextModification>
+        <datas>
+            <objects type="Map[QString]=FullTextSearchAtomicDB">
+                <ITEM>
+                    <KEY val="fr"/>
+                    <VAL>
+                        <key val="fr"/>
+                        <map_words type="Map[QString]=int"/>
+                    </VAL>
+                </ITEM>
+            </objects>
+        </datas>
+    </ft_datas>
+    <creation val="2021-05-05T09:51:02"/>
+    <modification val="2021-05-10T08:55:04"/>
+    <page_properties>
+        <html_head>
+            <enabled val="true"/>
+            <code_html val=""/>
+            <files type="List[WebFileSource]"/>
+            <syntax val="0"/>
+            <IsLangDependant val="false"/>
+            <HtmlCodeByLang type="Map[QString]=QString"/>
+        </html_head>
+        <html_body_end>
+            <enabled val="true"/>
+            <code_html val=""/>
+            <files type="List[WebFileSource]"/>
+            <syntax val="0"/>
+            <IsLangDependant val="false"/>
+            <HtmlCodeByLang type="Map[QString]=QString"/>
+        </html_body_end>
+        <php_page_beginning>
+            <enabled val="false"/>
+            <code_html val=""/>
+            <files type="List[WebFileSource]"/>
+            <syntax val="0"/>
+            <IsLangDependant val="false"/>
+            <HtmlCodeByLang type="Map[QString]=QString"/>
+        </php_page_beginning>
+        <edit_col_bg>
+            <col val="#ffffff"/>
+        </edit_col_bg>
+    </page_properties>
+    <type_page_template val="1"/>
+</PageTemplateData>
